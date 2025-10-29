@@ -19,6 +19,7 @@
 .header-title{
     line-height: 1.5;
     font-size: 3rem;
+    margin-bottom: 20px;
 }
 
 #title nav{
@@ -26,7 +27,12 @@
 }
 
 .header-img{
+    width: 65%;
     transform: rotate(25deg);
+}
+
+#title button{
+    margin-right: 10px;
 }
 
 /* FEATURES SECTION */
