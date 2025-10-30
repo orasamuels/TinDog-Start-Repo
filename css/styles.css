@@ -1,3 +1,7 @@
+body{
+    font-family: "montserrat";
+}
+
 #title{
     background-color: #ff4c68;
     color: #fff;
@@ -9,11 +13,16 @@
 
 #title nav .nav-item{
     margin-left: 45px;
+    font-family: "montserrat-light";
+    font-size: 1.2rem7
+    9+63
+    1;
 }
 
 .logo{
     font-size: 2.5rem;
     font-weight: bold;
+    font-family: "ubuntu";
 }
 
 .header-title{
@@ -58,3 +67,27 @@
 #features i:hover{
     color: #ff4c68;
 }
+
+/* TESTIMONIAL SECTION */
+
+#testimonials h2{
+    font-family: "montserrat-bold";
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+#testimonials{
+    padding: 7% 15%;
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+}
+
+#testimonials img{
+    border-radius: 50%;
+    max-width: 150px;
+    margin: 2rem 1rem;
+
+}
+
+ 
